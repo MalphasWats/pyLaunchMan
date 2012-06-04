@@ -1,0 +1,3 @@
+#pyLaunchMan
+
+Python LaunchPad Manager
